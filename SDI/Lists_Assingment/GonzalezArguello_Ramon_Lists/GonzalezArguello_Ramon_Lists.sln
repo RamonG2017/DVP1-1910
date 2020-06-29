@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GonzalezArguello_Ramon_Lists", "GonzalezArguello_Ramon_Lists\GonzalezArguello_Ramon_Lists.csproj", "{8878065C-8C9D-408D-B59D-7CBCAC259FA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8878065C-8C9D-408D-B59D-7CBCAC259FA4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8878065C-8C9D-408D-B59D-7CBCAC259FA4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8878065C-8C9D-408D-B59D-7CBCAC259FA4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8878065C-8C9D-408D-B59D-7CBCAC259FA4}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

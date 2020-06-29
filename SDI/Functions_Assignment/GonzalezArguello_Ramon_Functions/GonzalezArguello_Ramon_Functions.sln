@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GonzalezArguello_Ramon_Functions", "GonzalezArguello_Ramon_Functions\GonzalezArguello_Ramon_Functions.csproj", "{CB0F62F2-3671-47CB-9D27-E94A7B77FC7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB0F62F2-3671-47CB-9D27-E94A7B77FC7E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{CB0F62F2-3671-47CB-9D27-E94A7B77FC7E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{CB0F62F2-3671-47CB-9D27-E94A7B77FC7E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{CB0F62F2-3671-47CB-9D27-E94A7B77FC7E}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

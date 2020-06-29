@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GonzalezArguello_Ramon_Arrays", "GonzalezArguello_Ramon_Arrays\GonzalezArguello_Ramon_Arrays.csproj", "{29CA128C-17EC-413B-9FEC-33E5871934E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29CA128C-17EC-413B-9FEC-33E5871934E7}.Debug|x86.ActiveCfg = Debug|x86
+		{29CA128C-17EC-413B-9FEC-33E5871934E7}.Debug|x86.Build.0 = Debug|x86
+		{29CA128C-17EC-413B-9FEC-33E5871934E7}.Release|x86.ActiveCfg = Release|x86
+		{29CA128C-17EC-413B-9FEC-33E5871934E7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
